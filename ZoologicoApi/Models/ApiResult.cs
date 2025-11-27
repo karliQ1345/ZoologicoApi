@@ -17,6 +17,8 @@
         {
             return new ApiResult<T>
             {
+
+
                 Success = true,
                 Data = data,
                 Message = message,
