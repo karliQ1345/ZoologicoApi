@@ -11,8 +11,8 @@ using ZoologicoApi.Data;
 namespace ZoologicoApi.Migrations
 {
     [DbContext(typeof(ZoologicoContext))]
-    [Migration("20251127131324_InitialCreate_Postgres")]
-    partial class InitialCreate_Postgres
+    [Migration("20251203131201_PosgresNube")]
+    partial class PosgresNube
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

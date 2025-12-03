@@ -6,7 +6,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace ZoologicoApi.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate_Postgres : Migration
+    public partial class PosgresNube : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
